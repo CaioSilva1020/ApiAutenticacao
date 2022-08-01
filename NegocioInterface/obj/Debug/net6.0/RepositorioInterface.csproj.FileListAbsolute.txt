@@ -1,0 +1,15 @@
+C:\Projetos\ApiAutenticacao\NegocioInterface\bin\Debug\net6.0\RepositorioInterface.deps.json
+C:\Projetos\ApiAutenticacao\NegocioInterface\bin\Debug\net6.0\RepositorioInterface.dll
+C:\Projetos\ApiAutenticacao\NegocioInterface\bin\Debug\net6.0\RepositorioInterface.pdb
+C:\Projetos\ApiAutenticacao\NegocioInterface\bin\Debug\net6.0\Entidades.dll
+C:\Projetos\ApiAutenticacao\NegocioInterface\bin\Debug\net6.0\Entidades.pdb
+C:\Projetos\ApiAutenticacao\NegocioInterface\obj\Debug\net6.0\RepositorioInterface.csproj.AssemblyReference.cache
+C:\Projetos\ApiAutenticacao\NegocioInterface\obj\Debug\net6.0\RepositorioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ApiAutenticacao\NegocioInterface\obj\Debug\net6.0\RepositorioInterface.AssemblyInfoInputs.cache
+C:\Projetos\ApiAutenticacao\NegocioInterface\obj\Debug\net6.0\RepositorioInterface.AssemblyInfo.cs
+C:\Projetos\ApiAutenticacao\NegocioInterface\obj\Debug\net6.0\RepositorioInterface.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiAutenticacao\NegocioInterface\obj\Debug\net6.0\RepositorioInterface.csproj.CopyComplete
+C:\Projetos\ApiAutenticacao\NegocioInterface\obj\Debug\net6.0\RepositorioInterface.dll
+C:\Projetos\ApiAutenticacao\NegocioInterface\obj\Debug\net6.0\refint\RepositorioInterface.dll
+C:\Projetos\ApiAutenticacao\NegocioInterface\obj\Debug\net6.0\RepositorioInterface.pdb
+C:\Projetos\ApiAutenticacao\NegocioInterface\obj\Debug\net6.0\ref\RepositorioInterface.dll

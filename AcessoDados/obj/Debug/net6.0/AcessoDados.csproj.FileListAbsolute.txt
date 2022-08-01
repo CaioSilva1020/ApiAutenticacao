@@ -1,0 +1,17 @@
+C:\Projetos\ApiAutenticacao\AcessoDados\bin\Debug\net6.0\AcessoDados.deps.json
+C:\Projetos\ApiAutenticacao\AcessoDados\bin\Debug\net6.0\AcessoDados.runtimeconfig.json
+C:\Projetos\ApiAutenticacao\AcessoDados\bin\Debug\net6.0\AcessoDados.dll
+C:\Projetos\ApiAutenticacao\AcessoDados\bin\Debug\net6.0\AcessoDados.pdb
+C:\Projetos\ApiAutenticacao\AcessoDados\bin\Debug\net6.0\Entidades.dll
+C:\Projetos\ApiAutenticacao\AcessoDados\bin\Debug\net6.0\Entidades.pdb
+C:\Projetos\ApiAutenticacao\AcessoDados\obj\Debug\net6.0\AcessoDados.csproj.AssemblyReference.cache
+C:\Projetos\ApiAutenticacao\AcessoDados\obj\Debug\net6.0\AcessoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ApiAutenticacao\AcessoDados\obj\Debug\net6.0\AcessoDados.AssemblyInfoInputs.cache
+C:\Projetos\ApiAutenticacao\AcessoDados\obj\Debug\net6.0\AcessoDados.AssemblyInfo.cs
+C:\Projetos\ApiAutenticacao\AcessoDados\obj\Debug\net6.0\AcessoDados.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiAutenticacao\AcessoDados\obj\Debug\net6.0\AcessoDados.csproj.CopyComplete
+C:\Projetos\ApiAutenticacao\AcessoDados\obj\Debug\net6.0\AcessoDados.dll
+C:\Projetos\ApiAutenticacao\AcessoDados\obj\Debug\net6.0\refint\AcessoDados.dll
+C:\Projetos\ApiAutenticacao\AcessoDados\obj\Debug\net6.0\AcessoDados.pdb
+C:\Projetos\ApiAutenticacao\AcessoDados\obj\Debug\net6.0\AcessoDados.genruntimeconfig.cache
+C:\Projetos\ApiAutenticacao\AcessoDados\obj\Debug\net6.0\ref\AcessoDados.dll

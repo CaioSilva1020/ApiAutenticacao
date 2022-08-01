@@ -1,0 +1,12 @@
+C:\Projetos\ApiAutenticacao\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Projetos\ApiAutenticacao\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Projetos\ApiAutenticacao\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Projetos\ApiAutenticacao\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+C:\Projetos\ApiAutenticacao\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ApiAutenticacao\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Projetos\ApiAutenticacao\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Projetos\ApiAutenticacao\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiAutenticacao\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Projetos\ApiAutenticacao\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Projetos\ApiAutenticacao\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Projetos\ApiAutenticacao\Entidades\obj\Debug\net6.0\ref\Entidades.dll
